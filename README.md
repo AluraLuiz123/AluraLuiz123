@@ -10,5 +10,5 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 @AluraLuiz123
 
-![](https://tenor.com/pt-BR/view/github-gif-24410458)
+![](https://tenor.com/pt-BR/view/github-gif-24410458)..
 
